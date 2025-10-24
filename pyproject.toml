@@ -16,7 +16,7 @@ include = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.14"
+python = ">=3.9"
 spacy = "^3.8.7"
 pydantic = "^2.7.0"
 request-boost = "^0.6"
